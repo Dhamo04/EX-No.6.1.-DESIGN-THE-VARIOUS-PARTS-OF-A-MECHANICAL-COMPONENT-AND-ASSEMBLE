@@ -64,7 +64,8 @@ If the components do not fit properly into the slots, it can be moved into the s
 
 ## OUTPUT:
 
-![Uploading ex 11 25009463 Drawing_page-0001.jpg…]()
+![ex 11 25009463 Drawing_page-0001](https://github.com/user-attachments/assets/10ceabea-1a13-49e3-ad97-de57f67c2f16)
+
 
 
 
